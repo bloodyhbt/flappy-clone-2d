@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0c8e7e16de917cb478ac2e00f8379892
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Flappy: {instanceID: 0}
+  - Tubes: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
